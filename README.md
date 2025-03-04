@@ -2,7 +2,7 @@
 
  Log
 ===================
-Um site aonde você pode buscar qual número da tabuada você deseja ver
+Um site aonde você pode busca qual número da tabuada você deseja ver
 
 ### Tech used:
 - HTML5
